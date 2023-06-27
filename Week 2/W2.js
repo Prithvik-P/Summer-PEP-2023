@@ -1,5 +1,3 @@
-console.log("test");
-
 // Function 1 to perform addition
 
 function Add( a = 0 , b = 0 , c = 0 , d = 0 ) {
